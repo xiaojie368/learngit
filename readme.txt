@@ -12,4 +12,6 @@ test huancuntuihui
 test gongzuoqu huitui
 
 
-great new branch is quick&simple
+
+creating a new branch is quick and simple
+
