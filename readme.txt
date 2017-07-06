@@ -12,4 +12,4 @@ test huancuntuihui
 test gongzuoqu huitui
 
 
-great new branch is quick
+great new branch is quick&simple
